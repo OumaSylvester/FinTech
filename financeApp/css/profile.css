@@ -1,0 +1,36 @@
+.profile{
+    /* background-color: hsl(100, 27%, 2%); */
+    border-radius: 10px;
+}
+.profile-details{
+    
+    display: flex;
+    flex-flow: column;
+    margin-top: 0.8em;
+
+}
+.profile-details > *{
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
+
+.profile-details > img{
+    width: 50%;
+    border-radius: 50%;
+}
+
+.edit-profile-btn{
+    display: block;
+    width: 60%;
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    /* margin-right: 0.5em; */
+    padding: 0.5em;
+    /* padding-left: 0.7em; */
+    text-align: center;
+    line-height: 1.4em;
+    border: 2px solid gray;
+    border-radius: 15px;
+    background-color: lightgray;
+   
+}

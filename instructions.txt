@@ -1,0 +1,29 @@
+To run this program, for the follwing instructions:
+
+Have xampp installed
+
+Start xampp
+ start the apache
+ start mysql
+
+Add this folder to C:\xampp\htdocs
+
+Go to browser and open: http://localhost/FinTech/financeApp/index.php
+
+
+You have ton create the databases to test the software.
+
+You can use MYsql Workbench to create the db
+
+Or 
+
+In the xampp control panel click the admin button next to MYSQL.
+This open PHPmyadmin
+Then create a dababase named finance.
+
+In the top bar, click Import.
+Select the finance.sql file in the Fintech folder.
+
+This will create the tables, and insert a few users for you.
+
+Check the passwords file for passwordss

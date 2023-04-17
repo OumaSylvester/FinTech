@@ -1,0 +1,3 @@
+<?php
+    define('IMAGES', 'images/');
+?>
